@@ -2,6 +2,7 @@
 /** Error reporting methods.
  *  @author: Douglas W. Jones
  *  @author: Andy W.M. Arthur
+ *  @author: Cody J. Hoffman
  *  @version: April 9, 2016
  * 
  *  This code is extracted from the April 6, 2016 version of NeuronNetwork.java,
