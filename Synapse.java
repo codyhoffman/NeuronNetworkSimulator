@@ -6,6 +6,7 @@ import java.util.Scanner;
 /** Synapses join neurons and come in several flavors
  *  @author: Douglas W. Jones
  *  @author: Andy W.M. Arthur
+ *  @author: Cody J. Hoffman
  *  @version: April 9, 2016
  *  @see Neuron
  *  @see Synapse

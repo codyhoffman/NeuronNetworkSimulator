@@ -7,6 +7,7 @@ import java.lang.Math;
 /** Neurons, joined by synapses, are the active components of a neuron network.
  *  @author: Douglas W. Jones
  *  @author: Andy W.M. Arthur
+ *  @author: Cody J. Hoffman
  *  @version: April 21, 2016
  *  @see Synapse
  *  @see ScanSupport

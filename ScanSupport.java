@@ -10,6 +10,7 @@ import java.util.Scanner;
  *  in {@link Errors}.
  *  @author Douglas W. Jones 
  *  @author: Andy W.M. Arthur
+ *  @author: Cody J. Hoffman
  *  @version 4/11/2016
  *  @see java.util.Scanner
  *  @see Errors

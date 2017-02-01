@@ -9,6 +9,7 @@ import java.lang.Math;
 /** NeuronNetwork is the main class that builds the whole model
  *  @author: Douglas W. Jones
  *  @author: Andy W.M. Arthur
+ *  @author: Cody J. Hoffman
  *  @version: April 13, 2016
  *  @see Neuron
  *  @see Synapse

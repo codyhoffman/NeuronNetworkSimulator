@@ -4,6 +4,7 @@ import java.util.PriorityQueue;
 
 /** Framework for discrete event simulation.
  *  @author: Douglas W. Jones
+ *  @author: Cody J. Hoffman
  *  @version: April 21, 2016
  * 
  *  This code is based on the April 20, 2016 lecture notes.
